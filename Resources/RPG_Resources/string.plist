@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>data</key>
+    <dict>
+        <key>enter_account</key>
+        <string>请输入您的账号</string>
+        <key>enter_pwd</key>
+        <string>请输入您的密码</string>
+        <key>login</key>
+        <string>登陆</string>
+        <key>register</key>
+        <string>注册</string>
+        <key>aolaiguo</key>
+        <string>傲来国</string>
+        <key>loading</key>
+        <string>加载中……</string>
+        <key>auto_attack</key>
+        <string>自动攻击</string>
+        <key>stop_attack</key>
+        <string>停止自动</string>
+        <key>cancel_walk</key>
+        <string>取消步行</string>
+        <key>cancel_xunlu</key>
+        <string>取消寻路</string>
+        <key>cancel_run</key>
+        <string>取消跑步</string>
+        <key>world</key>
+        <string>世界</string>
+        <key>guild</key>
+        <string>行会</string>
+        <key>system</key>
+        <string>系统</string>
+        <key>world2</key>
+        <string>【世界】</string>
+        <key>guild2</key>
+        <string>【行会】</string>
+        <key>system2</key>
+        <string>【系统】</string>
+        <key>enter_here</key>
+        <string>从这里输入</string>
+        <key>send</key>
+        <string>发送</string>
+        <key>colon</key>
+        <string>：</string>
+        <key>exp</key>
+        <string>获得经验:%d</string>
+        <key>ok</key>
+        <string>确定</string>
+        <key>skill_list</key>
+        <string>技能列表</string>
+    </dict>
+    <key>metadata</key>
+    <dict>
+        <key>format</key>
+        <integer>1</integer>
+    </dict>
+</dict>
+</plist>

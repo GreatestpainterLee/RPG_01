@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>LOGIN_GAME</key>
+	<string>登录</string>
+	<key>CANCEL_GAME</key>
+	<string>取消</string>
+	<key>REGISTER_GAME</key>
+	<string>账号注册</string>
+	<key>FORGET_PASSWORD</key>
+	<string>忘记密码</string>
+	<key>REM_PASSWORD</key>
+	<string>记住密码</string>
+	<key>SELF_LOGIN</key>
+	<string>自动登录</string>
+	<key>INPUT_USERNAME</key>
+	<string>请输入账号！</string>
+	<key>INPUT_PASSWORD</key>
+	<string>请输入密码！</string>
+</dict>
+</plist>

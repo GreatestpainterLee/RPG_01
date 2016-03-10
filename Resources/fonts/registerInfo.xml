@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>REGISTER_GAME</key>
+	<string>注 册</string>
+	<key>CANCEL_GAME</key>
+	<string>取 消</string>
+	<key>USER_NAME</key>
+	<string>账      号</string>
+	<key>PASSWORD</key>
+	<string>密      码</string>
+	<key>PASSWORDREPEAT</key>
+	<string>确认密码</string>
+	<key>SEX</key>
+	<string>性      别</string>
+	<key>INPUT_USERNAME</key>
+	<string>请输入账号！</string>
+	<key>INPUT_PASSWORD</key>
+	<string>请输入密码！</string>
+	<key>INPUT_PASSWORD_AGAIN</key>
+	<string>请再次输入密码！</string>
+</dict>
+</plist>

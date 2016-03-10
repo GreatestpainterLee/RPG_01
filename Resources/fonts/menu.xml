@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BeginGame</key>
+	<string>开始游戏</string>
+	<key>SingleGame</key>
+	<string>单机游戏</string>
+	<key>NetworkGame</key>
+	<string>联网游戏</string>
+	<key>CreateGame</key>
+	<string>创建一局游戏</string>
+	<key>JoinGame</key>
+	<string>加入游戏</string>
+	<key>SettingGame</key>
+	<string>设置游戏</string>
+	<key>ExitGame</key>
+	<string>退出游戏</string>
+	<key>RestartGame</key>
+	<string>再来一局</string>
+</dict>
+</plist>
